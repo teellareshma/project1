@@ -1,0 +1,237 @@
+Gender,Age,Exercise_importance,Fitness_level,Regularity,Barriers,Exercises,Do_you,Time,Time_spent,Balanced_diet,prevents_balanced,Health_level,Recommend_fitness,Equipment,Motivation
+1,19 to 25,2,3,0.0,I don't have enough time;I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,0,I'm sorry ... I'm not really interested in exercising
+1,19 to 25,4,4,0.0,I don't have enough time;I'll become too tired,Walking or jogging;Swimming,With a group,3,0.0,1,Ease of access to fast food;Temptation and cravings,4,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress;I'm sorry ... I'm not really interested in exercising
+1,19 to 25,3,1,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,2,0.0,2,Ease of access to fast food;Temptation and cravings,4,Yes,0,I want to be fit
+0,19 to 25,5,1,3.5,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Gym;Team sport,With a friend,2,1.0,0,Temptation and cravings,2,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight
+0,19 to 25,5,1,3.5,I don't have enough time,Walking or jogging,Alone,3,2.0,0,Temptation and cravings,4,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight
+0,19 to 25,5,2,1.5,I don't have enough time;I'll become too tired;I have an injury,Walking or jogging,Alone,2,0.5,0,Ease of access to fast food;Temptation and cravings,3,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal;Doing exercises prevents many diseases.So yeah saves a lot of money .
+0,19 to 25,3,1,0.0,I don't have enough time;I can't stay motivated;I'll become too tired;I have an injury,Walking or jogging,Alone,3,1.0,1,Temptation and cravings,1,No,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress
+0,19 to 25,4,2,2.5,I don't have enough time;I'll become too tired,Walking or jogging;Gym,Alone,3,0.5,1,Cost;Ease of access to fast food,2,No,0,I want to be fit;I want to lose weight
+0,19 to 25,4,3,0.0,I don't have enough time;I'll become too tired,Walking or jogging;I don't really exercise,Alone,2,0.0,0,Lack of time,3,Yes,0,I want to be fit
+0,19 to 25,3,2,3.5,I don't really enjoy exercising,Team sport,With a group,2,2.0,1,Lack of time,2,No,1,I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,3,3,1.5,I can't stay motivated,Walking or jogging;I don't really exercise,Alone,3,0.5,2,Lack of time,4,No,0,I want to be fit;I want to be flexible;I want to relieve stress
+1,19 to 25,3,2,1.5,I don't have enough time,Yoga,Alone,3,1.0,1,Temptation and cravings,4,No,0,I want to relieve stress
+1,19 to 25,4,3,3.5,I don't have enough time,Yoga,Alone,3,0.5,2,Temptation and cravings,4,Yes,0,I want to be flexible
+1,19 to 25,3,2,1.5,I don't have enough time;I can't stay motivated,Walking or jogging;Yoga,Alone,3,0.5,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to lose weight
+1,19 to 25,3,2,3.5,I can't stay motivated;I'll become too tired,Gym,Alone,3,0.5,0,Ease of access to fast food,3,Yes,0,I want to be fit;I want to lose weight
+0,19 to 25,4,1,1.5,I don't have enough time;I can't stay motivated,Yoga,Alone,3,0.5,1,Ease of access to fast food,3,Yes,1,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,3,2,7.0,I don't have enough time,Gym;Swimming,With a friend,2,1.0,1,Temptation and cravings,3,Yes,0,I want to lose weight
+0,19 to 25,4,3,2.5,I don't have enough time;I can't stay motivated,Gym,Alone,3,1.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,5,4,5.5,I don't have enough time;I exercise regularly with no barriers,Gym;Lifting weights;Team sport,Alone,3,1.0,2,Temptation and cravings,4,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,5,2,7.0,I don't have enough time,Gym,With a friend,2,2.0,1,Temptation and cravings,3,Yes,1,I want to be fit
+1,19 to 25,4,1,1.5,I don't have enough time,Walking or jogging,Alone,2,0.5,0,Temptation and cravings,2,Yes,1,I want to be fit
+1,19 to 25,4,2,1.5,I don't really enjoy exercising,Walking or jogging,Alone,2,0.5,1,Ease of access to fast food,3,Yes,0,I want to be fit;I want to relieve stress
+1,19 to 25,2,3,0.0,I don't have enough time;I don't really enjoy exercising,I don't really exercise,Alone,3,0.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,1,I want to be fit;I want to lose weight
+0,19 to 25,3,5,2.5,I don't have enough time,Walking or jogging;Swimming;Lifting weights,Alone,3,0.5,2,Lack of time,4,No,0,I want to be fit
+1,19 to 25,5,2,2.5,I can't stay motivated;I'll become too tired,Walking or jogging;Gym;Yoga,Alone,3,1.0,1,Lack of time,3,Yes,1,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+1,19 to 25,4,3,2.5,I don't have enough time;I can't stay motivated,Walking or jogging;Yoga,Alone,3,0.5,1,Ease of access to fast food;Temptation and cravings,3,No,1,I want to be fit;I want to lose weight;I want to be flexible
+1,19 to 25,4,3,1.5,I can't stay motivated,Walking or jogging;Zumba dance;Team sport,With a friend,2,0.5,1,Ease of access to fast food,3,Yes,0,I want to be fit
+0,19 to 25,4,2,5.5,I don't have enough time;I can't stay motivated,Walking or jogging;Gym,With a friend,2,1.0,2,Ease of access to fast food;Temptation and cravings,2,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to relieve stress
+1,19 to 25,4,2,1.5,I don't have enough time,Yoga,Alone,2,0.5,1,Temptation and cravings,4,Yes,1,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,3,3,3.5,I'll become too tired,Gym;Swimming;Lifting weights,With a friend,3,1.0,1,Lack of time;Ease of access to fast food,3,Yes,0,I want to be fit;I want to lose weight;I want to relieve stress
+1,19 to 25,4,3,5.5,I am lazy,Team sport,With a group,3,1.0,2,Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to achieve a sporting goal
+1,19 to 25,3,3,1.5,I can't stay motivated,Walking or jogging,Alone,2,0.5,1,Lack of time;Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible
+1,19 to 25,4,2,2.5,I can't stay motivated,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,2,1,0.0,I don't have enough time;I can't stay motivated;I don't really enjoy exercising,Team sport;I don't really exercise,I don't really exercise,2,0.0,2,Ease of access to fast food;Temptation and cravings,4,No,0,I want to increase muscle mass and strength;I'm sorry ... I'm not really interested in exercising
+0,19 to 25,5,3,7.0,I have an injury,Team sport,Alone,3,2.0,2,Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to relieve stress
+0,19 to 25,5,2,0.0,I don't have enough time,Walking or jogging,With a friend,3,1.0,0,Temptation and cravings,4,Yes,0,I want to lose weight
+1,19 to 25,3,2,0.0,I don't have enough time;I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,0,Ease of access to fast food,3,Yes,0,I want to relieve stress
+0,19 to 25,5,3,7.0,I exercise regularly with no barriers,Team sport,Alone,3,0.5,1,Ease of access to fast food,4,Yes,0,I want to lose weight
+1,19 to 25,3,3,0.0,I can't stay motivated;Laziness ,Walking or jogging;I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food;Temptation and cravings,4,No,0,I want to be fit;I want to be flexible;To maintain healthy body and mind
+1,19 to 25,3,3,1.5,I can't stay motivated;I'll become too tired,Yoga,Alone,3,0.5,1,Ease of access to fast food;Temptation and cravings,3,Yes,1,I want to be flexible;I want to relieve stress
+0,19 to 25,5,2,1.5,I don't have enough time;I can't stay motivated,Walking or jogging;Lifting weights,Alone,2,0.5,0,Ease of access to fast food;Temptation and cravings,3,No,1,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,3,2,5.5,I can't stay motivated,Yoga,With a friend,3,0.0,0,Ease of access to fast food;Temptation and cravings,5,Yes,0,I want to be flexible
+1,19 to 25,4,3,7.0,I exercise regularly with no barriers,Walking or jogging;Team sport,Alone,2,2.0,2,Temptation and cravings,4,Yes,1,I want to be fit
+1,19 to 25,5,1,1.5,I can't stay motivated,Gym,Alone,3,1.0,1,Temptation and cravings,3,Yes,1,I want to lose weight
+1,19 to 25,3,2,0.0,I can't stay motivated;I don't really enjoy exercising,I don't really exercise,I don't really exercise,3,0.0,1,Temptation and cravings,3,No,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I'm sorry ... I'm not really interested in exercising
+0,19 to 25,4,2,2.5,I don't have enough time,Walking or jogging;Gym,Alone,2,1.0,1,Lack of time;Cost,2,No,1,I want to be fit;I want to lose weight
+1,19 to 25,4,1,1.5,I don't have enough time,Swimming,Alone,2,0.0,1,Lack of time,3,No,1,I want to be fit;I want to lose weight;I want to relieve stress
+1,19 to 25,5,2,7.0,I don't have enough time;I'll become too tired,Gym,Alone,2,2.0,0,Lack of time;Ease of access to fast food,3,Yes,1,I want to increase muscle mass and strength;I want to lose weight;I want to relieve stress
+1,19 to 25,5,3,3.5,I can't stay motivated,Walking or jogging;Yoga,Alone,3,0.5,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to be flexible
+0,19 to 25,3,2,5.5,I don't have enough time,Gym,Alone,2,1.0,0,Lack of time,4,Yes,1,I want to be fit;I want to increase muscle mass and strength
+0,19 to 25,5,4,2.5,I don't have enough time;I can't stay motivated,Walking or jogging;Gym;Team sport,Alone,2,1.0,1,Temptation and cravings,4,Yes,1,I want to be fit;I want to increase muscle mass and strength
+0,19 to 25,4,3,3.5,I'll become too tired,Walking or jogging,With a group,2,1.0,2,Temptation and cravings,4,No,0,I want to be fit
+1,19 to 25,3,3,1.5,I don't have enough time;I don't really enjoy exercising,Walking or jogging;Yoga,Alone,3,0.5,1,Ease of access to fast food,3,No,1,I want to be fit;I want to lose weight
+0,19 to 25,3,2,1.5,I can't stay motivated;I'll become too tired,Walking or jogging;Gym,Alone,3,1.0,1,Lack of time,3,No,0,I want to be fit;I want to think clearly and I want to play cricket with my grandkids
+0,19 to 25,3,2,0.0,I don't have enough time;I can't stay motivated;I have an injury,I don't really exercise,I don't really exercise,3,0.0,1,Temptation and cravings,3,No,0,I want to be fit;I want to relieve stress
+0,19 to 25,4,5,7.0,I don't have enough time,Walking or jogging;Lifting weights,Alone,2,0.5,1,Ease of access to fast food,4,Yes,1,I want to be fit
+0,19 to 25,4,5,5.5,I don't have enough time;I can't stay motivated,Gym;Team sport,With a group,3,2.0,0,Ease of access to fast food;Temptation and cravings,3,Yes,1,I want to increase muscle mass and strength;I want to achieve a sporting goal
+1,19 to 25,3,2,1.5,I'll become too tired,Walking or jogging;Swimming,With a friend,2,0.5,2,Ease of access to fast food,3,Yes,1,I want to be fit
+1,19 to 25,3,2,5.5,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,No,0,I want to lose weight
+0,19 to 25,5,2,7.0,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,2,0.5,1,Lack of time,3,Yes,0,I want to increase muscle mass and strength;I want to relieve stress
+0,19 to 25,5,5,7.0,I exercise regularly with no barriers,Swimming;Team sport,With a group,2,3.0,2,Lack of time,5,Yes,1,I want to be fit;I want to be flexible;I want to achieve a sporting goal
+1,19 to 25,3,3,7.0,I don't have enough time,Zumba dance,With a group,3,2.0,1,Lack of time,3,Yes,0,I want to increase muscle mass and strength
+0,19 to 25,5,3,7.0,I exercise regularly with no barriers,Walking or jogging;Yoga,Alone,3,0.5,0,Temptation and cravings,3,No,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight
+1,19 to 25,3,2,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,2,0.0,2,Temptation and cravings,3,No,1,I want to be fit
+0,19 to 25,3,2,1.5,I don't have enough time;I'll become too tired,Walking or jogging;Team sport,Alone,3,0.5,1,Lack of time;Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible
+1,19 to 25,4,3,1.5,I don't have enough time;I can't stay motivated,Gym,With a friend,2,0.5,1,Lack of time;Temptation and cravings,3,No,0,I want to be fit;I want to be flexible
+1,19 to 25,4,3,0.0,Lazy,Walking or jogging,I don't really exercise,3,0.0,1,Temptation and cravings,4,Yes,0,I want to be flexible
+0,19 to 25,5,4,1.5,I don't have enough time,Walking or jogging;Gym;Yoga;Lifting weights,Alone,2,0.5,1,Lack of time;Ease of access to fast food,4,No,0,I want to be fit;I want to increase muscle mass and strength
+0,19 to 25,5,3,1.5,I don't have enough time;I can't stay motivated;I'll become too tired;I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights,Alone,3,0.5,1,Lack of time;Temptation and cravings,5,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,4,2,3.5,I don't have enough time,Gym;Lifting weights,With a group,2,1.0,1,Temptation and cravings,3,Yes,1,I want to be fit
+0,19 to 25,5,4,5.5,I exercise regularly with no barriers,Walking or jogging;Swimming;Team sport,With a friend,3,2.0,2,Lack of time,4,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,5,3,2.5,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,3,0.5,0,Lack of time;Ease of access to fast food;Temptation and cravings,4,No,1,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress
+0,19 to 25,5,4,1.5,I don't have enough time,Gym;Swimming;Team sport,With a friend,2,1.0,1,Lack of time,4,Yes,0,I want to be fit;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,4,4,3.5,I don't have enough time;I have an injury,Gym;Lifting weights;Team sport,With a friend,2,1.0,2,Temptation and cravings,4,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight
+0,19 to 25,4,3,3.5,I don't have enough time;I have an injury,Walking or jogging;Team sport,With a group,3,1.0,1,Ease of access to fast food;Temptation and cravings,3,No,0,I want to be fit;I want to be flexible;I want to relieve stress
+1,19 to 25,4,3,3.5,I don't have enough time,Walking or jogging;Gym,Alone,2,0.5,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to be flexible
+1,19 to 25,4,2,1.5,I don't have enough time,Yoga,Alone,3,1.0,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,5,5,7.0,I exercise regularly with no barriers,Walking or jogging;Gym;Lifting weights;Team sport,Alone,2,1.0,2,Ease of access to fast food,5,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress
+1,19 to 25,1,1,0.0,Laziness ,I don't really exercise,I don't really exercise,3,0.0,0,Ease of access to fast food;Temptation and cravings,2,No,0,I'm sorry ... I'm not really interested in exercising
+0,19 to 25,5,3,5.5,I don't have enough time,Walking or jogging;Gym;Lifting weights,Alone,2,1.0,1,Lack of time;Temptation and cravings,3,No,1,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress
+0,19 to 25,5,2,0.0,I can't stay motivated,Gym,With a friend,3,2.0,0,Temptation and cravings,3,Yes,1,I want to be fit
+0,19 to 25,5,3,3.5,I have an injury,Team sport,With a group,3,2.0,1,Cost;Ease of access to fast food,3,Yes,0,I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,4,3,2.5,I don't have enough time;I can't stay motivated;I'll become too tired,Gym,With a friend,2,1.0,1,Temptation and cravings,4,No,1,I want to be flexible
+1,19 to 25,4,3,1.5,I don't have enough time;I'll become too tired,Walking or jogging;Team sport,With a friend,3,0.5,1,Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,5,1,2.5,I don't have enough time;I can't stay motivated,Walking or jogging;Swimming;Lifting weights,Alone,3,1.0,1,Lack of time;Ease of access to fast food,1,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to achieve a sporting goal
+1,19 to 25,3,4,1.5,I don't have enough time,Walking or jogging,Alone,3,0.5,2,Lack of time;Temptation and cravings,4,No,1,I want to be fit
+1,19 to 25,4,1,2.5,I don't have enough time;I'll become too tired,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,Yes,1,I want to be fit;I want to lose weight;I want to be flexible
+1,19 to 25,3,2,2.5,I'll become too tired,Walking or jogging;Gym;Zumba dance,Alone,3,0.5,1,Ease of access to fast food;Temptation and cravings,3,No,0,I want to be fit;I want to lose weight
+1,19 to 25,3,2,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,0,Temptation and cravings,2,No,0,I'm sorry ... I'm not really interested in exercising
+1,19 to 25,3,2,1.5,I don't have enough time;I can't stay motivated,I don't really exercise,Alone,2,0.0,1,Lack of time;Ease of access to fast food,2,No,1,I want to be fit;I want to lose weight
+1,19 to 25,2,1,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,0,Ease of access to fast food,3,Yes,0,I want to lose weight;I want to be flexible
+1,19 to 25,5,3,0.0,I'll become too tired,Zumba dance,I don't really exercise,2,0.0,1,Lack of time,1,Yes,0,I want to relieve stress
+0,19 to 25,4,2,0.0,I don't have enough time,Swimming,I don't really exercise,2,1.0,1,Lack of time,3,Yes,0,I want to be fit
+1,19 to 25,4,2,7.0,I can't stay motivated,Gym,Alone,3,0.5,1,Ease of access to fast food;Temptation and cravings,4,No,1,I want to be fit;I want to lose weight
+0,19 to 25,4,5,3.5,I don't have enough time,Walking or jogging;Gym,Alone,2,1.0,1,Lack of time,5,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress
+1,19 to 25,4,2,1.5,I can't stay motivated;I'll become too tired,Walking or jogging,With a friend,3,1.0,0,Ease of access to fast food;Temptation and cravings,2,No,0,I want to relieve stress
+1,19 to 25,5,3,7.0,I don't have enough time;I'll become too tired,Walking or jogging,Alone,3,1.0,0,Lack of time,3,No,1,I want to achieve a sporting goal
+1,19 to 25,4,3,2.5,I don't have enough time,Gym,With a group,2,2.0,1,Lack of time;Temptation and cravings,3,No,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible
+0,19 to 25,3,4,2.5,I don't have enough time;I can't stay motivated,Walking or jogging;Team sport,With a group,2,1.0,2,Temptation and cravings,4,No,0,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,3,2,1.5,I don't have enough time,Walking or jogging,Alone,3,0.0,1,Lack of time,3,Yes,0,I want to be fit
+0,19 to 25,3,3,1.5,I don't have enough time;I can't stay motivated,Walking or jogging;Team sport,Alone,2,1.0,1,Lack of time;Ease of access to fast food;Temptation and cravings,3,No,1,I want to relieve stress
+1,19 to 25,4,3,1.5,I don't have enough time;I can't stay motivated,Walking or jogging,With a friend,2,1.0,2,Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible
+1,19 to 25,4,3,2.5,I'll become too tired,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to relieve stress
+1,19 to 25,5,3,3.5,I'll become too tired,Walking or jogging,Alone,2,0.5,0,Lack of time,3,Yes,0,I want to be fit;I want to be flexible
+0,19 to 25,5,2,1.5,I don't have enough time,Walking or jogging;Team sport,With a group,3,0.5,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+1,19 to 25,4,2,0.0,I don't really enjoy exercising,I don't really exercise,I don't really exercise,3,0.0,0,Ease of access to fast food,3,No,0,I'm sorry ... I'm not really interested in exercising
+1,19 to 25,3,2,3.5,I don't have enough time,Walking or jogging;Gym;Yoga;Lifting weights,Alone,2,1.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+0,19 to 25,3,3,0.0,I don't really enjoy exercising,I don't really exercise,I don't really exercise,2,0.0,0,Ease of access to fast food;Temptation and cravings,3,No,0,I'm sorry ... I'm not really interested in exercising
+1,19 to 25,3,2,0.0,I can't stay motivated,Zumba dance,Within a class environment,3,0.0,2,Temptation and cravings,4,No,1,I want to be fit;I want to be flexible
+0,19 to 25,4,1,1.5,I don't have enough time,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to lose weight
+0,19 to 25,4,2,0.0,I don't have enough time,Yoga,Alone,3,1.0,0,Lack of time,2,No,0,I want to be fit
+0,19 to 25,2,1,0.0,I don't have enough time,I don't really exercise,I don't really exercise,2,0.5,0,Ease of access to fast food,2,No,0,I'm sorry ... I'm not really interested in exercising
+0,19 to 25,3,4,7.0,I exercise regularly with no barriers,Walking or jogging;Lifting weights,Alone,2,1.0,2,Ease of access to fast food,3,Yes,0,I want to increase muscle mass and strength
+0,19 to 25,4,4,3.5,I exercise regularly with no barriers,Team sport,With a friend,2,1.0,2,Lack of time,4,Yes,0,I want to achieve a sporting goal
+0,19 to 25,2,1,0.0,I have an injury,Walking or jogging,Within a class environment,2,0.5,0,Lack of time,3,No,0,I want to be flexible
+1,19 to 25,3,3,5.5,I don't have enough time,Walking or jogging,With a friend,2,0.5,1,Ease of access to fast food,3,No,0,Going to class on time 😉
+1,19 to 25,5,5,7.0,I exercise regularly with no barriers,Walking or jogging;Team sport,Alone,2,0.5,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,3,2,2.5,I can't stay motivated,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,4,No,0,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,1,2,0.0,I'll become too tired,I don't really exercise,I don't really exercise,2,0.0,1,Temptation and cravings,3,No,0,I'm sorry ... I'm not really interested in exercising
+0,19 to 25,1,5,1.5,I can't stay motivated,Gym;Team sport,Alone,2,2.0,0,Temptation and cravings,5,No,1,I want to relieve stress
+1,19 to 25,4,3,2.5,I don't have enough time,Walking or jogging;Gym;Swimming,Alone,2,0.5,1,Lack of time;Ease of access to fast food;Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,3,4,0.0,I can't stay motivated;I don't really enjoy exercising,Walking or jogging,Alone,3,0.5,1,Ease of access to fast food;Temptation and cravings,5,No,0,I want to be fit
+1,19 to 25,5,3,1.5,I can't stay motivated,Yoga,Alone,3,0.5,1,Temptation and cravings,3,Yes,1,I want to lose weight;I want to relieve stress
+1,19 to 25,4,2,2.5,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,2,0.5,1,Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be fit;I want to lose weight;I want to relieve stress
+0,19 to 25,4,2,1.5,I don't have enough time;I can't stay motivated,Team sport,With a group,2,1.0,0,Lack of time;Temptation and cravings,3,No,0,I want to be fit;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,4,3,3.5,I can't stay motivated,Walking or jogging;Gym;Swimming;Lifting weights;Team sport,Alone,3,2.0,2,Ease of access to fast food,4,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress
+0,19 to 25,4,3,3.5,I have an injury,Walking or jogging;Gym,Alone,2,1.0,0,Temptation and cravings,3,No,1,I want to be fit
+0,19 to 25,5,3,5.5,I don't have enough time,Gym;Team sport,Alone,2,2.0,1,Ease of access to fast food;Temptation and cravings,3,No,0,I want to be fit
+0,19 to 25,4,3,3.5,I can't stay motivated;I'll become too tired,Walking or jogging;Lifting weights;Team sport,Alone,1,1.0,1,Temptation and cravings,3,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,3,4,1.5,I don't have enough time,Walking or jogging,Alone,3,0.5,2,Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible
+0,19 to 25,5,5,5.5,I don't have enough time,Walking or jogging;Gym;Team sport,Alone,1,1.0,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress
+0,19 to 25,5,2,3.5,Laziness,Gym,Alone,3,1.0,2,Lack of time,3,No,1,I want to be fit
+1,19 to 25,3,3,1.5,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,No,0,My dad motivates me 
+1,19 to 25,4,2,2.5,I don't have enough time,Walking or jogging;Zumba dance,Alone,3,1.0,1,Ease of access to fast food,3,Yes,1,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,4,2,3.5,I don't have enough time;I can't stay motivated;I'll become too tired,Gym,Alone,2,1.0,2,Temptation and cravings,3,No,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,3,1,1.5,I can't stay motivated,Zumba dance,Alone,2,1.0,1,Ease of access to fast food;Temptation and cravings,2,No,0,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+1,19 to 25,5,4,5.5,I don't have enough time,Lifting weights,With a group,3,2.0,2,Cost;Temptation and cravings,3,Yes,1,I want to relieve stress
+1,19 to 25,3,2,1.5,I'll become too tired,Walking or jogging,Alone,3,0.5,2,Lack of time,3,Yes,1,I want to lose weight
+0,19 to 25,5,3,5.5,I exercise regularly with no barriers,Gym;Yoga,Alone,2,2.0,1,Lack of time,4,Yes,0,I want to be fit
+0,19 to 25,5,4,3.5,I don't have enough time,Walking or jogging;Yoga;Lifting weights,Alone,2,1.0,1,Temptation and cravings,4,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress
+1,19 to 25,3,3,1.5,I can't stay motivated,Walking or jogging,Alone,2,0.5,1,Ease of access to fast food;Temptation and cravings,3,No,1,I want to be fit;I want to be flexible;I want to relieve stress
+1,19 to 25,4,3,3.5,I exercise regularly with no barriers,Walking or jogging,Alone,2,1.0,0,Ease of access to fast food;Temptation and cravings,2,No,0,I want to lose weight;I want to be flexible
+1,19 to 25,4,3,7.0,I have an injury,Gym,Alone,2,1.0,2,I have a balanced diet,3,Yes,1,I want to be fit;I want to lose weight
+1,19 to 25,4,3,1.5,I don't have enough time,Walking or jogging;Gym,Alone,2,1.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,1,I want to be fit;I want to relieve stress
+1,19 to 25,4,3,1.5,I don't have enough time,Walking or jogging;Gym,Alone,2,1.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,1,I want to be fit;I want to relieve stress
+0,19 to 25,3,2,2.5,My friends don't come ,Team sport,With a group,3,2.0,1,Ease of access to fast food,3,No,0,I want to lose weight
+0,19 to 25,2,2,1.5,I don't have enough time;I'll become too tired;I don't really enjoy exercising,Walking or jogging;Swimming;Yoga;Team sport,With a friend,3,0.5,0,Ease of access to fast food;Temptation and cravings,4,No,1,I want to be fit;I want to lose weight
+0,19 to 25,5,2,3.5,I have an injury,Team sport,With a group,2,2.0,1,Temptation and cravings,3,Yes,1,I want to achieve a sporting goal
+0,19 to 25,5,2,1.5,I have an injury,Walking or jogging,Alone,3,0.5,1,Lack of time,3,No,0,I want to lose weight
+1,19 to 25,5,4,7.0,I don't have enough time,Gym,With a friend,2,2.0,0,Temptation and cravings,3,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+0,19 to 25,5,2,3.5,I don't have enough time,Gym,With a friend,2,1.0,2,Ease of access to fast food,4,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,4,3,2.5,I can't stay motivated,Team sport,With a group,3,1.0,1,Temptation and cravings,3,No,0,I want to be fit
+0,19 to 25,4,3,5.5,I exercise regularly with no barriers,Team sport,With a group,2,1.0,0,Temptation and cravings,5,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to achieve a sporting goal
+1,19 to 25,3,2,5.5,I don't have enough time,Walking or jogging,With a group,2,0.5,1,Ease of access to fast food,4,No,0,Reaching class on time 😅
+0,19 to 25,4,3,7.0,I don't have enough time,Walking or jogging;Gym;Lifting weights,With a friend,2,2.0,0,Ease of access to fast food,3,No,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,2,3,3.5,I'll become too tired;I don't really enjoy exercising,Walking or jogging;Yoga;Team sport,Alone,2,1.0,0,Temptation and cravings,3,No,1,I want to be fit;I want to lose weight;I want to relieve stress
+0,19 to 25,5,2,2.5,I can't stay motivated,Walking or jogging;Team sport,Alone,2,0.5,0,Temptation and cravings,3,Yes,1,Personal reasons
+1,19 to 25,4,2,2.5,I don't have enough time,Walking or jogging,Alone,3,0.5,0,Temptation and cravings,2,No,0,I want to lose weight
+0,19 to 25,4,3,5.5,I don't have enough time,Walking or jogging;Swimming;Team sport,Alone,2,2.0,0,Temptation and cravings,5,Yes,0,I want to be fit;I want to lose weight;I want to achieve a sporting goal
+1,19 to 25,3,3,0.0,I don't have enough time,Walking or jogging,I don't really exercise,2,0.0,1,Lack of time,2,Yes,0,I want to relieve stress
+1,19 to 25,3,2,0.0,I don't really enjoy exercising,I don't really exercise,I don't really exercise,3,0.0,1,Temptation and cravings,3,Yes,1,I want to lose weight
+0,19 to 25,4,3,3.5,I don't have enough time,Walking or jogging;Team sport,With a group,3,0.5,1,Temptation and cravings,3,Yes,1,I want to be fit
+1,19 to 25,3,3,1.5,I don't have enough time,Walking or jogging,Alone,2,1.0,0,Temptation and cravings,3,No,0,I want to lose weight;I want to be flexible
+0,19 to 25,2,2,0.0,I don't really enjoy exercising,I don't really exercise,I don't really exercise,2,0.0,1,i don't have a proper diet,5,No,1,I want to be fit;I'm sorry ... I'm not really interested in exercising
+0,19 to 25,4,3,3.5,I don't have enough time,Walking or jogging;Lifting weights,Alone,3,0.5,0,Ease of access to fast food;Temptation and cravings,4,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress
+0,19 to 25,5,2,0.0,I don't have enough time,Walking or jogging,I don't really exercise,3,0.0,1,Lack of time,3,No,0,I want to be fit
+0,19 to 25,3,3,0.0,I don't have enough time,I don't really exercise,I don't really exercise,3,0.0,2,I have a balanced diet,4,No,0,I want to increase muscle mass and strength
+1,19 to 25,3,3,2.5,I don't have enough time,Walking or jogging,Alone,3,0.0,0,Lack of time,3,No,0,I want to relieve stress
+0,19 to 25,3,3,1.5,I don't have enough time,Gym,With a friend,2,2.0,1,Lack of time;Ease of access to fast food,3,Yes,0,I want to be fit
+1,19 to 25,3,3,3.5,I don't have enough time,Walking or jogging;Team sport,Alone,2,1.0,2,I have a balanced diet,5,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+0,19 to 25,3,3,1.5,I can't stay motivated,Walking or jogging,Alone,2,1.0,0,Temptation and cravings,4,Yes,0,I want to relieve stress
+1,19 to 25,5,2,1.5,I can't stay motivated;Laziness mostly ,Walking or jogging;Swimming;Yoga,Alone,3,2.0,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,5,3,1.5,I don't have enough time;I can't stay motivated,Gym;Team sport,Alone,3,0.5,0,Cost;Ease of access to fast food,4,Yes,1,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,5,3,7.0,I don't have enough time,Walking or jogging;Gym;Lifting weights,Alone,2,2.0,2,Ease of access to fast food;Temptation and cravings,5,Yes,1,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,4,3,2.5,I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,3,1,0.0,I can't stay motivated,Walking or jogging,I don't really exercise,3,0.0,0,Ease of access to fast food,2,No,0,I want to be fit
+1,19 to 25,1,3,0.0,I don't really enjoy exercising,I don't really exercise,I don't really exercise,3,0.0,2,I have a balanced diet,3,No,0,I want to be fit
+0,19 to 25,3,2,1.5,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,3,0.5,0,Ease of access to fast food,3,No,0,I want to lose weight;I want to relieve stress
+1,19 to 25,4,3,7.0,I don't have enough time,Team sport,With a group,2,1.0,0,Lack of time,3,No,0,I want to relieve stress
+0,19 to 25,4,2,1.5,I can't stay motivated;I'll become too tired;I have an injury,Walking or jogging;Lifting weights,With a friend,3,1.0,1,Ease of access to fast food,3,No,0,I want to be fit;I want to increase muscle mass and strength;I want to be flexible;I want to relieve stress
+1,19 to 25,4,3,1.5,I don't have enough time,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,No,0,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,4,3,5.5,I exercise regularly with no barriers,Walking or jogging;Zumba dance,With a friend,2,2.0,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to be flexible;I want to relieve stress
+1,19 to 25,4,3,1.5,I can't stay motivated,Walking or jogging,With a group,2,0.5,2,I have a balanced diet,4,Yes,1,I want to be fit
+0,19 to 25,5,3,7.0,I don't have enough time,Gym;Team sport,With a friend,2,2.0,1,Temptation and cravings,4,Yes,1,I want to be fit
+0,19 to 25,3,3,1.5,I don't have enough time,I don't really exercise,Alone,3,1.0,2,Lack of time,3,No,0,I want to increase muscle mass and strength;I want to lose weight;I want to be flexible
+1,19 to 25,5,3,2.5,I don't have enough time,Walking or jogging;Yoga,Alone,2,0.5,1,Ease of access to fast food,4,Yes,0,I want to be fit;I want to be flexible
+0,19 to 25,4,3,5.5,I exercise regularly with no barriers,Walking or jogging,With a friend,3,1.0,1,Cost,3,No,1,I want to be fit;I want to lose weight
+0,19 to 25,5,2,0.0,I don't have enough time;I can't stay motivated,I don't really exercise,With a friend,3,2.0,1,Lack of time;Temptation and cravings,3,Yes,1,I want to be fit
+0,19 to 25,4,3,2.5,I can't stay motivated;I have an injury,Walking or jogging;Gym;Lifting weights;Team sport,With a group,2,1.0,1,Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,3,1,0.0,I don't have enough time;I can't stay motivated;I'll become too tired,Walking or jogging;Gym;Yoga;Zumba dance,Alone,2,0.5,0,Lack of time;Cost;Ease of access to fast food;Temptation and cravings,3,Yes,0,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,5,3,7.0,I exercise regularly with no barriers,Walking or jogging,Alone,3,0.5,2,Temptation and cravings,3,No,0,I want to be fit
+0,19 to 25,4,2,0.0,I don't have enough time,Walking or jogging;I don't really exercise,I don't really exercise,2,0.0,1,Lack of time;Cost,3,Yes,1,I want to be fit;I want to be flexible;I want to relieve stress
+1,19 to 25,4,2,2.5,I'll become too tired,Walking or jogging,Alone,2,0.5,1,Ease of access to fast food,4,Yes,0,I want to be fit
+0,19 to 25,3,3,0.0,I don't have enough time,I don't really exercise,With a friend,2,1.0,1,I have a balanced diet,5,Yes,0,I want to be fit
+0,19 to 25,5,5,3.5,I exercise regularly with no barriers,Gym,Alone,2,2.0,2,I have a balanced diet,4,Yes,0,I want to be fit;I want to increase muscle mass and strength
+0,19 to 25,5,4,7.0,I exercise regularly with no barriers,Team sport,Alone,2,0.5,1,Lack of time,3,Yes,1,I want to be fit
+1,19 to 25,5,1,0.0,I can't stay motivated;I'll become too tired,I don't really exercise,I don't really exercise,3,0.0,0,Ease of access to fast food;Temptation and cravings,1,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,4,1,5.5,I don't have enough time;I'll become too tired,Gym;Team sport,With a group,2,1.0,2,I have a balanced diet,2,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,4,1,0.0,I can't stay motivated,Walking or jogging;Gym;Swimming,Alone,3,2.0,1,Cost;Ease of access to fast food,2,Yes,0,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,4,2,5.5,I can't stay motivated;I exercise regularly with no barriers,Swimming;Team sport,With a friend,3,3.0,0,Lack of time,3,Yes,1,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+0,19 to 25,5,1,0.0,I don't have enough time;I can't stay motivated,Walking or jogging;Gym,With a friend,2,2.0,1,Cost,3,No,0,I want to be fit;I want to relieve stress
+1,19 to 25,2,2,0.0,I don't really enjoy exercising,I don't really exercise,I don't really exercise,3,0.0,2,I have a balanced diet,4,No,0,I'm sorry ... I'm not really interested in exercising
+0,19 to 25,5,4,5.5,I exercise regularly with no barriers,Team sport,With a group,2,1.0,1,Ease of access to fast food;Temptation and cravings,3,No,1,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,3,2,0.0,I don't have enough time;I can't stay motivated,Zumba dance,Within a class environment,2,0.0,2,I have a balanced diet,3,No,1,I want to be fit;I want to be flexible
+0,19 to 25,4,3,2.5,I don't have enough time,Walking or jogging,Alone,3,0.5,1,Temptation and cravings,3,Yes,0,I want to lose weight
+1,19 to 25,4,3,1.5,I don't have enough time,Gym;Swimming,With a friend,2,1.0,1,Temptation and cravings,4,Yes,1,I want to be fit
+1,19 to 25,3,3,1.5,I don't have enough time,Gym,Alone,2,1.0,1,Ease of access to fast food,3,Yes,0,I want to lose weight
+0,19 to 25,4,1,0.0,I exercise regularly with no barriers,Team sport,I don't really exercise,2,0.0,0,Alcohol does me a good diet,3,Yes,0,Gotta get that alcohol and **** out of the system
+1,19 to 25,5,4,3.5,I'll become too tired,Walking or jogging;Yoga,Alone,2,0.5,2,I have a balanced diet,4,Yes,1,I want to be fit;I want to be flexible;I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,3,1,0.0,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,I don't really exercise,I don't really exercise,2,0.0,0,Ease of access to fast food;Temptation and cravings,1,No,0,I'm sorry ... I'm not really interested in exercising
+0,19 to 25,5,1,2.5,I don't have enough time;I'll become too tired,Gym,Alone,3,0.5,1,Lack of time,2,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,5,1,2.5,I don't have enough time;I'll become too tired,Gym,Alone,3,0.5,1,Lack of time,2,Yes,0,I want to be fit;I want to be flexible;I want to relieve stress
+0,19 to 25,3,2,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food;Temptation and cravings,2,No,0,I want to relieve stress
+1,19 to 25,5,2,0.0,I'll become too tired,Walking or jogging,Alone,3,0.5,1,Cost,3,No,0,I want to be fit;I want to lose weight
+1,19 to 25,3,2,1.5,I don't have enough time;I can't stay motivated,Walking or jogging,Alone,2,0.5,1,Lack of time;Ease of access to fast food,3,Yes,0,I want to be fit;I want to lose weight
+1,19 to 25,5,3,1.5,I can't stay motivated;I exercise regularly with no barriers,Walking or jogging;Yoga;Lifting weights;Team sport,Alone,3,1.0,2,Ease of access to fast food;I have a balanced diet,5,Yes,0,I want to be fit;I want to lose weight;I want to be flexible;I want to relieve stress
+1,19 to 25,4,2,1.5,I'll become too tired,Gym,With a friend,3,0.5,1,Temptation and cravings,3,Yes,1,I want to be fit
+1,19 to 25,4,2,2.5,I'll become too tired,Walking or jogging;Gym,Alone,2,0.5,0,Temptation and cravings,4,No,1,I want to be fit;I want to lose weight
+0,19 to 25,4,3,5.5,I can't stay motivated,Yoga,Alone,3,0.5,1,Ease of access to fast food,3,No,1,I want to be fit
+1,19 to 25,5,2,1.5,I can't stay motivated;Laziness mostly ,Walking or jogging;Swimming;Yoga,Alone,3,2.0,1,Temptation and cravings,4,Yes,0,I want to be fit;I want to lose weight;I want to relieve stress;I want to achieve a sporting goal
+0,19 to 25,3,3,0.0,I don't have enough time;I can't stay motivated;I'll become too tired;I don't really enjoy exercising,Walking or jogging;Swimming;Team sport,With a group,3,0.0,2,Lack of time,4,Yes,1,I want to be fit;I want to increase muscle mass and strength
+1,19 to 25,4,2,2.5,I don't have enough time;I can't stay motivated,Walking or jogging,With a friend,3,0.5,1,Ease of access to fast food;Temptation and cravings,4,Yes,1,I want to be fit;I want to lose weight;I want to be flexible
+1,19 to 25,4,2,2.5,I don't have enough time;I can't stay motivated,Walking or jogging,With a friend,3,0.5,1,Ease of access to fast food;Temptation and cravings,4,Yes,1,I want to be fit;I want to lose weight;I want to be flexible
+0,19 to 25,4,1,0.0,I don't have enough time,I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food;Temptation and cravings,1,No,0,I'm sorry ... I'm not really interested in exercising
+1,19 to 25,4,3,0.0,I can't stay motivated,I don't really exercise,Alone,3,0.0,1,Temptation and cravings,3,Yes,0,I want to be fit;I want to be flexible
+1,19 to 25,4,2,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food;Temptation and cravings,3,No,1,I want to lose weight
+1,19 to 25,3,2,0.0,I'll become too tired,Walking or jogging,With a friend,3,0.5,2,Temptation and cravings,3,Yes,0,I want to be fit
+1,19 to 25,5,4,7.0,I don't have enough time,Zumba dance,Within a class environment,2,1.0,1,Lack of time,4,Yes,1,I want to relieve stress
+1,19 to 25,3,1,0.0,I can't stay motivated;I don't really enjoy exercising,I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food;Temptation and cravings,3,No,1,I'm sorry ... I'm not really interested in exercising
+0,19 to 25,2,3,1.5,I don't have enough time;I'll become too tired,Walking or jogging,Alone,3,0.5,2,Lack of time,3,Yes,0,I want to be fit;I want to relieve stress
+0,19 to 25,5,1,1.5,I don't have enough time;I can't stay motivated,I don't really exercise,Alone,3,0.0,1,Ease of access to fast food;Temptation and cravings,2,Yes,1,I want to be fit;I want to increase muscle mass and strength;I want to relieve stress;I want to achieve a sporting goal
+1,19 to 25,5,3,5.5,I exercise regularly with no barriers,Gym,Alone,3,1.0,1,Temptation and cravings,3,Yes,1,I want to lose weight;I want to be flexible;I want to relieve stress
+1,19 to 25,4,1,0.0,I can't stay motivated,I don't really exercise,I don't really exercise,3,0.0,1,Ease of access to fast food,2,Yes,1,I want to be fit;I want to lose weight
+1,19 to 25,5,3,2.5,I can't stay motivated,Gym,With a friend,2,1.0,1,Temptation and cravings,3,Yes,0,I want to lose weight
+1,19 to 25,4,2,1.5,I can't stay motivated,Walking or jogging;Yoga,Alone,3,0.5,1,Ease of access to fast food;Temptation and cravings,4,Yes,0,I want to lose weight;I want to be flexible
+0,19 to 25,3,3,3.5,I don't really enjoy exercising,Walking or jogging,Alone,2,0.5,1,Temptation and cravings,3,Yes,0,I want to relieve stress
